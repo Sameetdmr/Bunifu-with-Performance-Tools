@@ -1,0 +1,11 @@
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\bin\Debug\BunifuProgress.exe.config
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\bin\Debug\BunifuProgress.exe
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\bin\Debug\BunifuProgress.pdb
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\bin\Debug\Bunifu_UI_v1.5.3.xml
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.csprojResolveAssemblyReference.cache
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.Form1.resources
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.Properties.Resources.resources
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.csproj.GenerateResource.Cache
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.exe
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.pdb

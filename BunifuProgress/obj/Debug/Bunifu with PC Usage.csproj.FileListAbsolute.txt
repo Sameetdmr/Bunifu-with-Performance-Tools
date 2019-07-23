@@ -1,0 +1,3 @@
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\bin\Debug\BunifuProgress.exe.config
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.exe
+c:\users\samed\onedrive\belgeler\visual studio 2015\Projects\BunifuProgress\BunifuProgress\obj\Debug\BunifuProgress.pdb
